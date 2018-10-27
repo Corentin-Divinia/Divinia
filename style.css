@@ -1,0 +1,103 @@
+
+
+h1{	
+	width: 430px;
+	height: 270px;   
+	margin: 0px auto; 
+	color: #0A122A;
+	font-size: 120px;
+	font-family: Quicksand, Sans Serif;
+	font-weight: 300;
+	line-height: 2.0;
+	padding: 30px;
+	border-radius: 30px;
+	box-shadow: 0 10px 100px rgba(0,0,0,.1);
+}
+
+
+h2{
+	color: #044389;
+	font-size: 30px;
+	font-family: Courier;
+	line-height: 1;
+
+}
+
+h2 {
+    display: block;
+    margin-block-start: 0.9em;
+    margin-block-end: 0.3em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+
+h3{
+	color: #222222;
+	font-size: 25px;
+	font-family: Quicksand ;
+	font-weight: 200;
+	width: 900px;   
+	margin: 20px auto;
+	background-color: #E8EEF2;
+}
+
+p{
+	color: #222222;
+	font-size: 20px;
+	font-family: Quicksand ;
+	line-height: 1;
+	text-decoration: none;
+}
+
+p {
+    display: block;
+    margin-block-start: 0.1em;
+    margin-block-end: 1.2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+a{
+	color: #044389;
+	font-size: 25px;
+	font-family: Quicksand;
+	font-weight: 700;
+	width: 900px;   
+	margin: 20px auto;
+}
+
+.form{
+	font-weight: bold;
+	font-size: 10px;
+	font-family: Times;
+}
+
+body{
+color: #0A122A;  /* rich black */
+color: #E8EEF2;  /* background */
+color: #222222;  /* raisin black */
+color: #84DCC6;  /* pearl aqua */
+color: #5ABCB9;  /* verdigris */
+background-color: #E8EEF2;
+
+}
+
+
+.Header {
+margin: 0px 0px 0px 0px;
+background-color: #EFD2CB;
+}
+
+.main{
+	margin: 0px 150px 100px 80px
+}
+
+.form{
+	margin: 0px 100px 50px 200px;
+}
+
+.socialmedia {
+	align-content: center;
+	margin: 50px 0px 50px 0px;	
+}
